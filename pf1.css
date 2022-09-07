@@ -1,0 +1,55 @@
+*{
+    padding:0px;
+    margin:0px;
+    box-sizing:border-box
+}
+.navstyling{
+    background-color: #ffddd2;
+    height:70px;
+    border:1px double black;
+    border-radius:25px;
+
+} 
+.homestyle{
+    border:1px solid black;
+    border-radius:25px;
+    margin-top:15px;
+}
+.btnr{
+    width:100px;
+    height:40px;
+    border-radius:5px;
+    background-color:blue;
+    color:white;
+    border:1px double white;
+}
+.gtr{
+    width:100px;
+    height:40px;
+    border-radius:5px;
+    background-color:black;
+    color:white;
+    border:1px double white;
+
+}
+.navst:hover{
+    
+    font-size:20px;
+
+}
+.footerstyling{
+    width:100%;
+    height:120px;
+    background-color:black;
+    border-radius:20px;
+   border-radius:25px;
+
+
+}
+.footerstyling>h1{
+    color:white;
+
+    background-color: black;
+    text-align:center;
+}
+
